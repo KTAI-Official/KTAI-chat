@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/j2kr9by7/darklogo.jpg](https://idoxefm.sufydely.com/ktai/blog-files/images/darklogo.jpg" alt="KTAI Banner" width="100%" />
+  <img src="https://idoxefm.sufydely.com/ktai/blog-files/images/darklogo.jpg" alt="KTAI Banner" width="100%" />
 </p>
 
 <h1 align="center">🤖 KTAI — The Next-Generation AI Chat Platform</h1>
