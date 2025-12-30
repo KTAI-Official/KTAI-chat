@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/j2kr9by7/darklogo.jpg" alt="KTAI Banner" width="100%" />
+  <img src="https://i.postimg.cc/j2kr9by7/darklogo.jpg](https://idoxefm.sufydely.com/ktai/blog-files/images/darklogo.jpg" alt="KTAI Banner" width="100%" />
 </p>
 
 <h1 align="center">🤖 KTAI — The Next-Generation AI Chat Platform</h1>
@@ -7,7 +7,7 @@
 <p align="center">
   <b>Free • Fast • Intelligent</b><br>
   Empowering everyone with next-level <b>AI tools</b> and <b>chat experiences</b>.<br>
-  🌐 <a href="https://ktai.qzz.io">ktai.qzz.io</a> | 💬 <a href="http://chat.ktai.qzz.io/">Chat Now</a> | 🎮 <a href="https://discord.com/invite/n6B5KCN3ZV">Discord</a>
+  🌐 <a href="https://ktai.qzz.io">ktai.pro</a> | 💬 <a href="http://chat.ktai.pro/">Chat Now</a> | 🎮 <a href="https://discord.com/invite/n6B5KCN3ZV">Discord</a>
 </p>
 
 ---
@@ -48,10 +48,10 @@ We provide **free AI chat**, **image generation**, **speech tools**, **translati
 
 | Resource | URL |
 |-----------|-----|
-| 🌐 Main Website | [https://ktai.qzz.io](https://ktai.qzz.io) |
-| 💬 AI Chat | [http://chat.ktai.qzz.io/](http://chat.ktai.qzz.io/) |
+| 🌐 Main Website | [https://ktai.qzz.io](https://ktai.pro) |
+| 💬 AI Chat | [http://chat.ktai.qzz.io/](http://chat.ktai.pro/) |
 | 🧠 Discord Server | [https://discord.com/invite/n6B5KCN3ZV](https://discord.com/invite/n6B5KCN3ZV) |
-| 📧 Contact | [founder@ktai.qzz.io](mailto:founder@ktai.qzz.io) |
+| 📧 Contact | [founder@ktai.qzz.io](mailto:founder@ktai.pro) |
 
 ---
 
@@ -68,7 +68,7 @@ We’re building the future of **accessible AI**, and we’d love your help!
 Join our community, share feedback, or contribute to our open projects.
 
 > 🎮 [Join the Discord Community](https://discord.com/invite/n6B5KCN3ZV)  
-> 📧 [founder@ktai.qzz.io](mailto:founder@ktai.qzz.io)
+> 📧 [founder@ktai.qzz.io](mailto:founder@ktai.pro)
 
 ---
 
