@@ -48,10 +48,10 @@ We provide **free AI chat**, **image generation**, **speech tools**, **translati
 
 | Resource | URL |
 |-----------|-----|
-| 🌐 Main Website | [https://ktai.qzz.io](https://ktai.pro) |
-| 💬 AI Chat | [http://chat.ktai.qzz.io/](http://chat.ktai.pro/) |
+| 🌐 Main Website | [https://ktai.pro](https://ktai.pro) |
+| 💬 AI Chat | [http://chat.ktai.pro/](http://chat.ktai.pro/) |
 | 🧠 Discord Server | [https://discord.com/invite/n6B5KCN3ZV](https://discord.com/invite/n6B5KCN3ZV) |
-| 📧 Contact | [founder@ktai.qzz.io](mailto:founder@ktai.pro) |
+| 📧 Contact | [founder@ktai.ktai.pro](mailto:founder@ktai.pro) |
 
 ---
 
@@ -68,7 +68,7 @@ We’re building the future of **accessible AI**, and we’d love your help!
 Join our community, share feedback, or contribute to our open projects.
 
 > 🎮 [Join the Discord Community](https://discord.com/invite/n6B5KCN3ZV)  
-> 📧 [founder@ktai.qzz.io](mailto:founder@ktai.pro)
+> 📧 [founder@ktai.pro](mailto:founder@ktai.pro)
 
 ---
 
